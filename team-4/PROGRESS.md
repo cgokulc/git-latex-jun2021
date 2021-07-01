@@ -3,7 +3,7 @@
 #### Q2
 
 - [x] Anshid
-- [ ] Chris
+- [x] Chris
 - [x] Gokul
 - [x] Sid
 - [x] Abhishek
@@ -11,18 +11,18 @@
 #### Q3
 
 - [x] Anshid
-- [ ] Chris
+- [x] Chris
 - [x] Gokul
 - [x] Sid
 - [x] Abhishek
 
 #### Q4
 
-- [ ] Anshid
-- [ ] Chris
-- [ ] Gokul
-- [ ] Sid
-- [ ] Abhishek
+- [x] Anshid
+- [x] Chris
+- [x] Gokul
+- [x] Sid
+- [x] Abhishek
 
 #### Q5
 
